@@ -1,0 +1,53 @@
+﻿1. Napišite konzolnu aplikaciju koja će omogućiti unos n brojeva, sve dok korisnik ne unese "zadnji".
+   Nakon toga napišite metodu koja će izračunati prosjek svih brojeva koje je korisnik unio.
+
+
+2. Napišite konzolnu aplikaciju koja omogućuje unos n brojeva, aplikacija prestaje sa radom kada korisnik unese "kraj". 
+   Za svaki od unesenih brojeva, ispišite zbroj njegovih znamenki, koristite metodu za izračun.
+
+
+3.Napišite konzolnu aplikaciju koja omogućuje unos rečenice. 
+  Napišite metodu koja će obrnuti redoslijed znakova za svaku od riječi u rečenici te ispisati na konzolu promjenjenu rečenicu. 
+  Pero ide plivati
+  oreP edi itavilp
+
+
+4.Napišite konzolnu aplikaciju koja omogućuje unos rečenice.
+ Napišite metodu koja će pronaći sva slova koja se nalaze unutar te rečenice. Ispišite pronađena slova.
+ Pero ide plivati
+ peroidlvat 
+
+
+5.Napišite konzolnu aplikaciju koja omogućuje unos 2 broja (a i b).
+Napišite metodu koja će zamijeniti vrijednosti ta dva broja. Ispišite zamjenjene vrijednosti.
+
+a = 5
+b = 7
+
+a = 7
+b = 5
+
+
+6.Napišite konzolnu aplikaciju koja omogućuje unos rečenice, te dva slova (PrvoSlovo i DrugoSlovo). Napišite metodu koja će zamjeniti sva slova "PrvoSlovo" slovom "DrugoSlovo" u rečenici. Ispišite novu rečenicu.
+
+Pero ide plivati
+p
+x
+
+xero ide xlivati 
+
+
+7.Napišite konzolnu aplikaciju koja omogućuje unos n brojeva, aplikacija prestaje sa radom kada korisnik unese "kraj". 
+  Napišite metodu za pronalazak najvećeg i najmanjeg broja iz brojeva koje je korisnik unio. Ispišite oba ta broja.
+
+Ne smijete koristiti Min i Max funckije na nizovima/kolekcijama
+55,122,5454,545,5,1
+
+5454
+1
+
+
+8.Napišite konzolnu aplikaciju koja omogućuje unos rečenice. 
+  Napišite metodu koja će pronaći koliko riječi su palindromi unutar te rečenice. 
+  Ispišite broj pronađenih palindroma.
+  kajak 
